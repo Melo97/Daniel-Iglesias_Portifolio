@@ -1,7 +1,8 @@
-title: <p align="center"> Daniel Iglesias C. Melo </p>
+title: <p align="center"> Daniel Iglesias </p>
 logo: "/images/profile.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-   <p align="center">
+  <p align="center">
+  <a href="pdf/sample_presentation.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/daniel-iglesias-melo/">LinkedIn</a> |
   <a href="https://github.com/Melo97">GitHub</a>
   </p>
