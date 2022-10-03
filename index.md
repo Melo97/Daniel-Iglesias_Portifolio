@@ -2,10 +2,13 @@
 
 ---
 
-### Category Name 1 
+### Predicting House Prices with Random Forest & XGBoost 
 
+<div style="text-align: justify"> Performed a detailed EDA and Feature Engineering to select variables for a Regression model over House Sale Prices at Iowa, USA.<br>
+  Model performed well for both models, especially for the last.
+   
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Hp Predicted vs Real SalePrice.png"/></center>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
