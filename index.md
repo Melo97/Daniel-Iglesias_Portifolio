@@ -1,13 +1,16 @@
-## Portfolio
+# Portfolio
 
 ---
 
-### Predicting House Prices with Random Forest & XGBoost 
+## Predicting House Prices with Random Forest & XGBoost 
+
+### **Skills:** Python, Random Forest, XGBoost
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Melo97/Real-Estate-Sales-Price-Regression-Using-RF-and-XGBoost)
 
 <div style="text-align: justify"> Performed a detailed EDA and Feature Engineering to select variables for a Regression model over House Sale Prices at Iowa, USA.<br>
   Model performed well for both models, especially for the last.
    
-[Project 1 Title](/sample_page)
 <img src="images/Hp Predicted vs Real SalePrice.png"/></center>
 
 ---
