@@ -8,8 +8,9 @@
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Melo97/Real-Estate-Sales-Price-Regression-Using-RF-and-XGBoost)
 
-<div style="text-align: justify"> Performed a detailed EDA and Feature Engineering to select variables for a Regression model over House Sale Prices at Iowa, USA.<br>
-  Model performed well for both models, especially for the last.
+<div style="text-align: justify"> Built a Regression model to predict houses sale price using ML algorithms, performing detailed EDA and Feature Engineering to select appropriate variables. <br>
+Model performed accurately for both models, as well as for its combination.
+<br>
    
 <img src="images/Hp Predicted vs Real SalePrice.png"/></center>
 
