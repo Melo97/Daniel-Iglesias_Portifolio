@@ -11,7 +11,7 @@
 <div style="text-align: justify"> Built a Regression model to predict houses sale price using ML algorithms, performing detailed EDA and Feature Engineering to select appropriate variables. Model performed accurately for both models, as well as for its combination. 
 <br><br><br>
    
-<img src="images/Hp Predicted vs Real SalePrice.png"/></center>
+<img src="images/HP project.jpeg"/></center>
 
 ---
 ## Predicting House Prices with Random Forest & XGBoost 
