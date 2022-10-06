@@ -9,9 +9,9 @@
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Melo97/Real-Estate-Sales-Price-Regression-Using-RF-and-XGBoost)
 
 <div style="text-align: justify"> Built a Regression model to predict houses sale price using ML algorithms, performing detailed EDA and Feature Engineering to select appropriate variables. Model performed accurately for both models, as well as for its combination. 
-<br><br><br>
-   
-<img src="images/HP project.jpeg"/></center>
+<br><br>
+  
+<center><img src="images/HP project.jpeg"/></center>
 
 ---
 
