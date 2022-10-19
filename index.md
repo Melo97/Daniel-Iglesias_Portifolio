@@ -24,7 +24,7 @@
 <div style="text-align: justify"> Project goal was to use KMeans clustering to define the customer importance, based on two main variables: the total monetary spent (BRL), and frequency of purchase by customer, and update database (mySQL) with customer classifications. </div>
 
 <figure>
- <center><img src="/images/CC_sql_Kmeans.jpeg" alt="KMeans" width="304" height="202"/></center>
+ <center><img src="images/CC_sql_Kmeans.jpeg" alt="KMeans" width="304" height="202"/></center>
 </figure>
  
 ---
@@ -37,7 +37,7 @@
 <div style="text-align: justify"> Research paper published during college graduation, together with some fellow students. Decision making, within organizations, is a essential factor for their success. The computational simulation is founded as an auxiliary and complementary tool to the decision. </div>  
 
 <figure>
- <center><img src="/images/Meu_artigo1.PNG" alt="KMeans" width="304" height="202"/></center>
+ <center><img src="images/Meu_artigo1.PNG" alt="KMeans" width="304" height="202"/></center>
 </figure>
  
 <p style="font-size:11px">Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
