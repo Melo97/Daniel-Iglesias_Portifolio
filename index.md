@@ -37,7 +37,7 @@
 <div style="text-align: justify"> This Machine Learning model was build with the objective to better predict if a Brest Cancer is either Benign or Malignant. To train and test the model, it was used the 'Breast Cancer Wisconsin Database', and built with PCA decomposition and the SVM classifier -predict Cancer class (1: Malignant | 0: Benign). </div>
 
 <figure>
- <center><img src="images/CC_sql_Kmeans.jpeg" alt="KMeans"/></center>
+ <center><img src="images/BC support vector machines.jpeg" alt="SVM"/></center>
 </figure>
  
 ---
