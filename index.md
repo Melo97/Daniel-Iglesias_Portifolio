@@ -14,7 +14,20 @@
  <center><img src="images/HP project.jpeg"/></center>
 </figure>
  
----  
+---
+## Movie Recommendation Systems for Streaming Platforms
+  
+### **Skills:** Linear Algebra, Content-based & Collaborative Filtering Recommending Systems 
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Melo97/Movie-Recommender-Systems)
+
+<div style="text-align: justify"> Built over a large UCI movie ratings dataset, this project was grounded on different approaches of ML Recommending Systems - Content-based, Model-based, and Memory-based Systems - with the goal of evaluating which of them were better suited in terms of simplicity, computing capacity, and performance </div>
+
+<figure>
+ <center><img src="images/RS rec systems.jpeg" alt="Rec_Sys"/></center>
+</figure>
+ 
+---
 ## Customer Clustering using K means
   
 ### **Skills:** SQL, mySQL, Python, KMeans
