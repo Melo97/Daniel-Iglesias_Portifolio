@@ -5,7 +5,8 @@
 ## Predicting House Prices with Random Forest & XGBoost 
 
 ### **Skills:** Python, Random Forest, XGBoost
- 
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/House-Prices-Regression.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Melo97/Real-Estate-Sales-Price-Regression-Using-RF-and-XGBoost/)
 
 <div style="text-align: justify"> With detailed EDA and Feature Engineering, this model was trained to accuretly predict Houses Sale Price, using three Regression methods: Random Forests, Extreme Gradient Boosting, and a compound of both. The resulting model performed accurately on testing phase. </div>
@@ -19,6 +20,7 @@
   
 ### **Skills:** Linear Algebra, Content-based & Collaborative Filtering Recommending Systems 
 
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Movies-Recommendation-System.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Melo97/Movie-Recommender-Systems)
 
 <div style="text-align: justify"> Built over a large UCI movie ratings dataset, this project was grounded on different approaches of ML Recommending Systems - Content-based, Model-based, and Memory-based Systems - with the goal of evaluating which of them were better suited in terms of simplicity, computing capacity, and performance </div>
@@ -32,6 +34,7 @@
   
 ### **Skills:** SQL, mySQL, Python, KMeans
 
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Customer-Clustering-K-means.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Melo97/Customer-Clustering-using-KMeans-SQLconnector/)
 
 <div style="text-align: justify"> This project was develop to dynamically clusterize customers to an E-commerce database, based on Frequency and Amount of Money Spent, to better tailor marketing resource allocation. It was used KMeans to define the customers importance, and mySQL to create and maintin (UPDATE) the database. </div>
@@ -45,6 +48,7 @@
   
 ### **Skills:** SVM, PCA
 
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Brest-Cancer-Classifier.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/Melo97/Brest-Cancer-Type-Classification)
 
 <div style="text-align: justify"> This Machine Learning model was build with the objective to better predict if a Brest Cancer is either Benign or Malignant. To train and test the model, it was used the 'Breast Cancer Wisconsin Database', and built with PCA decomposition and the SVM classifier -predict Cancer class (1: Malignant | 0: Benign). </div>
