@@ -44,6 +44,19 @@
 </figure>
  
 ---
+## Sentiment Analysis for Skincare Product Reviews
+  
+### **Skills:** NLP, VADER, BERT, DataViz, Pandas
+
+[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](Projects/Sentiment-Analysis.html)
+
+<div style="text-align: justify"> By using two different algorithms, VADER (Valence Aware Dictionary and sEntiment Reasoner) and BERT (Bidirectional Encoder Representations from Transformers), this notebook was able to predict client sentiments over a product by its review. This application can be a useful for in e-commerce channels, where it has hundreds or thousands reviews, and automatically analyze customer feedbacks and better tailor responses accordingly. </div>
+
+<figure>
+ <center><img src="images/Sentiment-Analysis.png" alt="NLP"/></center>
+</figure>
+ 
+---
 ## Brest Cancer Classification with PCA & SVM
   
 ### **Skills:** SVM, PCA
