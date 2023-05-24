@@ -71,6 +71,19 @@
 </figure>
  
 ---
+## Business Intelligence Analysis
+  
+### **Skills:** PowerBI, Dashboards, Data Vizualization 
+
+[![Open Website](https://img.shields.io/badge/Google_Sites-Open_Site-lightblue?logo=Google)](https://sites.google.com/view/my-dashboard-protifolio/in%C3%ADcio)
+
+<div style="text-align: justify"> I created this website as a practice, to post my solutions to challenging business cases. It has real and simulated cases, you can open the website to see more. </div>
+
+<figure>
+ <center><img src="images/OR-dashboard.PNG" alt="BI"/></center>
+</figure>
+ 
+---
 ## College Article: Optimization model using Descrete Event Simulation
   
 ### **Skills:** Statistics, Operations Research
