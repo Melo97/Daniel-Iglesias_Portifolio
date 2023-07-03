@@ -30,6 +30,20 @@
 </figure>
  
 ---
+## Assessing Climate Change using CNN via vegetation identification
+  
+### **Skills:** Neural Networks, Deep Learning, Image Recognition
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/drive/1DdDYM2W3vFPmdJg0Q9SRdrVzKFlPiKYr?usp=sharing)
+
+<div style="text-align: justify"> Using Tensorflow Keras, created a Convolutional Neural Network able to predict, with high precision, the presence of a certain type of vegetation in satellite images, which are related to environmental damage activities. The model classified labels correctly 94% of the time for the class of interest and 93% for the other. </div>
+
+
+<figure>
+ <center><img src="images/Cactus-CNN.png" alt="CNN"/></center>
+</figure>
+ 
+---
 ## Customer Clustering using K means
   
 ### **Skills:** SQL, mySQL, Python, KMeans
