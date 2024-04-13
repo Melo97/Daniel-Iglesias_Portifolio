@@ -87,7 +87,7 @@
 ---
 ## Business Intelligence Analysis
   
-### **Skills:** PowerBI, Dashboards, Data Vizualization 
+### **Skills:** PowerBI, Dashboards, Data Visualization 
 
 [![Open Website](https://img.shields.io/badge/Google_Sites-Open_Site-lightblue?logo=Google)](https://sites.google.com/view/my-dashboard-protifolio/in%C3%ADcio)
 
@@ -98,7 +98,7 @@
 </figure>
  
 ---
-## College Article: Optimization model using Descrete Event Simulation
+## College Article: Optimization model using Discrete Event Simulation
   
 ### **Skills:** Statistics, Operations Research
 
